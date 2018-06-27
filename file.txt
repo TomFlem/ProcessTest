@@ -1,2 +1,3 @@
 This is some important master work
 Important changes to master
+New line
